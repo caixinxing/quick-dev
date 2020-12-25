@@ -1,2 +1,2 @@
 # quick-dev
-Java前后端分离快速开发平台
+Java快速开发平台
